@@ -6,11 +6,9 @@
 
 ---
 
-I'm a full-stack developer and IT undergrad at **Manipal University Jaipur** (graduating 2027), building things that work in the real world — not just in localhost.
+I’m an IT undergraduate at Manipal University Jaipur who prefers building over overthinking. Most of what I’ve learned comes from working on real projects — figuring out what works, what breaks, and how to fix it. I enjoy turning ideas into usable products, and right now, I’m focused on taking my projects from “it works” to “it holds up under real users.”
 
-I prefer shipping over planning. My process is simple: pick a problem, build a solution, figure out what broke, make it better. Most of what I know came from actual projects — not courses. I work best when there's a deadline, a challenge, or both — which is probably why hackathons suit me well.
-
-Right now, I'm focused on two things: making my existing projects genuinely production-ready, and getting better at weaving AI into full-stack applications in ways that feel natural rather than bolted on. Long term, I want to build products that handle real scale and real users — not just demos.
+The projects I'm most proud of aren't the cleanest codebases, but they're things I built from scratch, deployed, and learned from end to end. 
 
 ---
 
